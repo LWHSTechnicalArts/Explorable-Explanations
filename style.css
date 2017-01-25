@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Dosis|Economica:400,700|Open+Sans+Condensed:300|Poiret+One|Quicksand:400,500|Rajdhani|Roboto');
+
+
+body {
+    background-color: white;
+    
+}
+#mainTitle {
+    font-family: 'Poiret One';
+    color:;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+#subTitle {
+    font-family: 'Poiret One';
+    text-align: center;
+    color: deepskyblue;
+    font-size: 30px;
+    
+}
+
+hr {
+     margin-bottom: 50px; 
+    color: aliceblue
+    
+}
+
+a {
+    text-decoration: none;
+    color: darkseagreen;
+    font-family: 'Economica';
+    font-size: 40px;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+    color:aquamarine;
+    
+}
+
+li {
+    list-style-type: none;
+}
+img {
+    width:30%;
+   
+    
+}
