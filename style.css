@@ -23,8 +23,17 @@ body {
 
 hr {
      margin-bottom: 50px; 
-    color: aliceblue
+    color: aliceblue;
     
+}
+
+#intro {
+    
+    font-family: 'Economica';
+    color:black;
+    font-size: 30px;
+    text-align: center;
+        
 }
 
 a {
