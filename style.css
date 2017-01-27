@@ -42,6 +42,7 @@ a {
     font-family: 'Economica';
     font-size: 40px;
     text-align: center;
+    
 }
 
 a:hover {
@@ -54,7 +55,14 @@ li {
     list-style-type: none;
 }
 img {
-    width:30%;
-   
+    width: 50%;
+    height:100%;
+    text-align: center;
     
+}
+
+.blurb {
+    font-family: 'Rajdhani';
+    font-size: 25px;
+    text-align: center;
 }
